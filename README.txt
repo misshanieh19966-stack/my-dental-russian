@@ -1,0 +1,1 @@
+My Dental Russian V7. Upload all files in this folder to the repository root. The app stays free and has no imposed subscription expiry. Open your existing GitHub Pages URL. Export progress backup first. Content is educational; medical instructions must follow clinician direction and local protocols. Photos of most tools are not yet embedded or verified.
